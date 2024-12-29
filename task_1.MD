@@ -1,4 +1,4 @@
-# Professional Writing:
+#  🌟Professional Writing:
 
 ### 1. Generate a resignation letter
         [Your Name]
@@ -108,7 +108,7 @@
     2. Engage with local stakeholders and secure funding from relevant agencies
     3. Provide training and capacity-building programs for community members
 
-# Creative Writing:
+# 🌟Creative Writing:
 
 ### 1. Write a short story plot
     The Memory Keeper
@@ -199,7 +199,7 @@
 
     These are just a few examples, but I can create more characters for you if you'd like!
 
-# Technical Content:
+#  🌟Technical Content:
 
 ### 1. Write code documentation
      **Code Documentation**
@@ -479,7 +479,7 @@
 
     With this information, I can help you craft a clear and concise bug report that effectively communicates your problem to the developers.
 
-# Academic Writing:
+#  🌟Academic Writing:
 
 ### 1. Generate a research abstract
     Here is a potential research abstract:
@@ -520,7 +520,7 @@
 
     In conclusion, the benefits of learning a new language are clear: from enhanced cultural understanding and career opportunities to improved physical and mental health, the rewards of language learning are undeniable. As we continue to navigate an increasingly interconnected world, embracing language skills will be essential for success in both personal and professional life.
 
-# Marketing Content:
+#  🌟Marketing Content 
 
 ### 1. Write product descriptions
     Here are some product descriptions:
