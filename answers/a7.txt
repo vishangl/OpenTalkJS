@@ -1,0 +1,60 @@
+I can provide you with an example of code documentation in various formats. Here's a simple "Hello World" program documented in Markdown:
+
+**Code Documentation**
+=======================
+
+### Description
+
+This is a simple "Hello World" program written in Python.
+
+```markdown
+# Hello World Program
+======================
+
+This is a simple program that prints "Hello, World!" to the console.
+
+## Installation
+
+To run this program, save it to a file with a `.py` extension (e.g. `hello_world.py`) and run it from the command line using Python:
+
+```
+$ python hello_world.py
+```
+
+### Code
+
+```python
+# hello_world.py
+"""
+This is a simple "Hello World" program.
+
+The purpose of this program is to print "Hello, World!" to the console.
+"""
+
+def main():
+    """
+    The main function that starts the program.
+
+    Returns:
+        None
+    """
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    main()
+```
+
+### Explanation
+
+This program consists of a single `main` function that is responsible for printing "Hello, World!" to the console. The program uses the `print()` function to achieve this.
+
+The code is documented using Markdown syntax and includes comments to explain the purpose of each section and the functionality of the code.
+
+### Usage
+
+To use this program, simply save it to a file with a `.py` extension (e.g. `hello_world.py`) and run it from the command line using Python:
+
+```
+$ python hello_world.py
+Hello, World!
+```
