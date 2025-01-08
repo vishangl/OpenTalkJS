@@ -1,0 +1,30 @@
+Here's a sample bug report:
+
+**Subject:** [Insert subject line here, e.g. "Crash on startup" or "Invalid login issue"]
+
+**Description:**
+
+I am experiencing an unusual behavior with the application that I have been using for some time. On [insert date and time] when I attempted to [insert action or interaction], I encountered an unexpected error.
+
+The error message was: [Insert error message here, e.g. "Cannot read property 'name' of undefined" or "Failed to load module: /path/to/module"]
+
+**Steps to Reproduce:**
+
+1. Log in to the application on [insert date and time].
+2. Attempt to [insert action or interaction that caused the issue].
+
+**Environment:**
+
+* Operating System: [Insert operating system here, e.g. Windows 10]
+* Browser: [Insert browser name here, e.g. Google Chrome]
+* Version of application: [Insert version number here]
+
+**Expected Result:**
+
+The application should have worked as expected, but instead it encountered an unexpected error.
+
+**Additional Information:**
+
+I have checked the application's logs and noticed that there are no obvious errors or warnings. I have also tried to reproduce the issue on multiple devices and browsers with the same result. However, the error persists, and I am concerned about its stability and security.
+
+Thank you for your attention to this matter.

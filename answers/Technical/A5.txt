@@ -1,0 +1,74 @@
+Here is an example of API documentation in YAML format:
+
+```
+# API Name
+api_name: weather-api
+
+# Overview
+api_description: A RESTful API for retrieving weather information by location.
+api_version: v1
+
+# Endpoints
+# Get Current Weather
+endpoint: /weather/current
+methods:
+  - GET
+schema:
+  - type: object
+    properties:
+      weather_data:
+        type: string
+        description: Current weather data in JSON format.
+
+# Get Forecast for a Location
+endpoint: /weather/forecast/{location}
+methods:
+  - GET
+schema:
+  - type: object
+    properties:
+      forecast_data:
+        type: array
+        items:
+          type: object
+          properties:
+            temperature_celsius:
+              type: integer
+              description: Temperature in Celsius.
+
+# Get Weather History for a Location
+endpoint: /weather/history/{location}
+methods:
+  - GET
+schema:
+  - type: object
+    properties:
+      weather_history_data:
+        type: array
+        items:
+          type: object
+          properties:
+            timestamp:
+              type: string
+              description: Timestamp of the event in ISO format.
+
+# Error Handling
+error_schema:
+  - type: error
+    title: Invalid Request
+    description: The request was invalid.
+```
+
+This API documentation provides a high-level overview of the available endpoints, their parameters, and response formats. It also includes information about error handling for the API.
+
+Here's an explanation of the schema used in this example:
+
+* `type`: This specifies the type of data expected in the response or request body.
+* `properties`: These are individual properties within a data object that contain additional information about the relevant fields.
+* `description`: A brief description of each property, which can be used to provide context for users.
+
+This schema is designed to be extensible and can be modified as needed. It's also worth noting that this is just an example, and you should consider including more detailed information in your actual API documentation, such as:
+
+* Response codes
+* Request headers and validation requirements
+* Authentication and authorization details

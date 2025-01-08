@@ -1,0 +1,87 @@
+**Code Documentation**
+
+**Overview**
+-----------
+
+This is a basic Python script that demonstrates how to write documentation for your code.
+
+**Code Structure**
+-----------------
+
+The code consists of two main sections:
+
+* **Main Code**: This section contains the logic and functionality of the program.
+* **Documentation**: This section contains comments, docstrings, and other types of documentation used to describe the code.
+
+**Main Code**
+--------------
+
+```python
+# Import necessary modules
+import numpy as np
+
+# Define a function to calculate the mean of an array
+def calculate_mean(array):
+    """
+    Calculate the mean of an array.
+
+    Parameters:
+        array (numpy.ndarray): The input array.
+
+    Returns:
+        float: The mean of the array.
+    """
+    return np.mean(array)
+
+# Example usage:
+array = np.array([1, 2, 3, 4, 5])
+mean_value = calculate_mean(array)
+print(mean_value)  # Output: 3.0
+```
+
+**Documentation**
+--------------
+
+### `calculate_mean` Function
+
+#### Description
+
+Calculates the mean of an array.
+
+#### Parameters
+
+* `array (numpy.ndarray)`: The input array.
+
+#### Returns
+
+* `float`: The mean of the array.
+
+#### Notes
+
+This function uses NumPy's `mean()` function to calculate the mean of the input array. It is a simple and efficient way to compute the mean, but it can be slow for large arrays.
+
+### Example Usage
+
+```python
+# Create an example array
+array = np.array([1, 2, 3, 4, 5])
+
+# Calculate the mean of the array
+mean_value = calculate_mean(array)
+
+# Print the result
+print(mean_value)  # Output: 3.0
+```
+
+### Notes
+
+This documentation uses the Google Python Style Guide for Python documentation. The `calculate_mean` function is documented with a brief description, parameter and return types, notes, and an example usage section.
+
+**Running the Code**
+-------------------
+
+To run the code, save it in a file called `main.py` and execute it using Python:
+```bash
+python main.py
+```
+This will output the result of calculating the mean of the array.

@@ -1,0 +1,9 @@
+Here's a potential research abstract:
+
+Title: Investigating the Effects of Urban Sprawl on Mental Health and Physical Activity in Urban Dwellers
+
+Abstract:
+
+Urban sprawl, characterized by the expansion of cities into surrounding rural areas, has been linked to various negative outcomes for urban residents, including mental health issues and decreased physical activity. This study aimed to investigate the relationship between urban sprawl, socioeconomic status, and physical activity levels in urban dwellers. A mixed-methods approach was employed, combining survey data from over 1,000 adults with objective measures of physical activity (accelerometer and GPS data) and mental health outcomes (self-report measures). Results showed a significant positive correlation between urban sprawl and decreased physical activity, as well as increased symptoms of anxiety and depression. Conversely, higher socioeconomic status was associated with greater physical activity levels. Furthermore, lower levels of exposure to green spaces were correlated with poorer mental health outcomes. The findings suggest that targeted interventions aimed at promoting physical activity and increasing access to green spaces in urban areas may be an effective strategy for mitigating the negative impacts of urban sprawl on mental health and promoting overall well-being.
+
+Keywords: urban sprawl, mental health, physical activity, socioeconomic status, green spaces.

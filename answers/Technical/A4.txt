@@ -1,0 +1,13 @@
+I can help you create API documentation using standard API guidelines and best practices.
+
+Before I begin, please provide me with some details about your API:
+
+1. What is the name of your API?
+2. What does your API do?
+3. What data does your API expose (e.g., endpoints, parameters, responses)?
+4. Are there any specific features or functionalities that you want to document (e.g., authentication, error handling)?
+5. Do you have any existing documentation (e.g., Swagger, API Blueprint) that I can reference?
+
+Once I have this information, I'll create a comprehensive API documentation for your use case.
+
+If you don't have an API yet, we can start from scratch and outline the essential details.
